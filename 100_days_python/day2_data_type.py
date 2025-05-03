@@ -11,3 +11,11 @@
 #---
 #print(5/3) #무조건 부동 소수점 동반 (부동소수점 없는 정수값 원하려면 //)
 #print(5//3) = 1
+#---
+#BMI 계산기
+height = 1.65
+weight = 84
+BMI = weight / (height)**2
+print(BMI)
+#---
+#F-stringlength_of_name
