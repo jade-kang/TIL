@@ -1,0 +1,6 @@
+우리에게 보여지는 부분은 body이다. 보통 body 안에는 header , contents, footer로 구성 
+header에는 gnb, 즉 글로벌 네비게이션 바를 넣었다. div 태그 내에 넣는다. (div는 영역, 구획을 나눌 때 사용한다) 
+id="속성이름" 같이, div 태그에 id, class 같은 속성을 부여하는 것은, 해당 div를 구분하거나, css 또는 js로 특정 div만 선택/조작하기 위해서이다. 
+    수많은 div들이 각각 서로 다른 기능을 가지니까 이를 구분해주기 위해서이다 
+
+contents는 태그가 따로 없기 때문에 div="contents" 처럼 div 태그에 넣는게 일반적이다. 
